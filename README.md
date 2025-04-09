@@ -19,7 +19,9 @@ This project documents my forensic analysis of a suspicious USB device as part o
 
 1. **Unzipped the downloaded USB archive**
    - Found a folder named `BLTO Suspicious USB` containing multiple files, including `README.pdf` and `autorun.inf`.
+
 ![Screenshot_description](https://github.com/mbergin123/suspicious-usb-lab/blob/main/images/found-BLTO-Suspicous-File.png?raw=true)
+
 ![Screenshot_description](https://github.com/mbergin123/suspicious-usb-lab/blob/main/images/usb&autorun-directories.png?raw=true)
 
 2. **Verified file contents**
